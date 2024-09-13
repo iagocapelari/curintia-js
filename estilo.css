@@ -1,0 +1,51 @@
+body{
+    background-color: #616161;
+    text-align: center;
+}
+
+h1 {
+    color: #ff4242;
+}
+
+.galeria img{
+    width: 300px;
+    height: 200px;
+    border: 5px solid #333;
+    margin: 25px 0;
+}
+.botoes button{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#botao1 {
+    background-color: #c70000;
+}
+
+#botao2 {
+    background-color: #c70000;;
+}
+
+#botao3 {
+    background-color: #940000;
+}
+
+#botao4 {
+    background-color: #4b0000;;
+}
+
+#botao5 {
+    background-color: #1a0000;;
+}
+
+#botao6 {
+    background-color: #000000;;
+}
+
+.botoes button.hover{
+    background: #666;
+}
